@@ -1,0 +1,19 @@
+Name of the Author: Madhusree Rana
+Date of Upload: 15th February, 2022
+Topic of the Project: Document Scanner
+Programming Language used: Python
+Libraries Used: OpenCV-Python, Scikit-Image, Numpy
+
+About the Project:
+
+The code works as a Document Scanner.
+It takes the url of an image as the input, finds the four corners of it,
+and finally, by applying a perspective transform and thresholding on it, returns and
+displays a top-down, bird’s-eye view of it with a black and white look.
+
+Requirement: Stable Internet Connection for using the URL of the image
+
+URL for the image used in the code:
+https://thumbs.dreamstime.com/z/klang-malaysia-may-paper-sales-receipt-
+isolated-wooden-background-klang-malaysia-may-paper-sales-receipt-isolated-wooden
+-218014311.jpg
